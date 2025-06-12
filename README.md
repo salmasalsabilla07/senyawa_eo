@@ -2,8 +2,14 @@
 
 Website ini dibangun untuk mengelola pemesanan event seperti Akad Nikah, Resepsi, dsb.
 
-## 🚀 Cara Instalasi
-
 1. Clone repository:
    ```bash
    git clone https://github.com/salmasalsabilla07/senyawa_eo.git
+
+2. Jalankan di localhost/XAMPP dengan akses ke index.php
+3. Jalankan di localhost/XAMPP dengan akses ke index.php
+
+File database ada di folder:
+```bash
+senyawa_wo.sql
+
