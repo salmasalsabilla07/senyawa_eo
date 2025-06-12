@@ -10,8 +10,8 @@ Website ini dibangun untuk mengelola pemesanan event seperti Akad Nikah, Resepsi
 3. Jalankan di localhost/XAMPP dengan akses ke index.php
 
 4. File database ada di folder:
-```bash
-senyawa_wo.sql
+   ```bash
+   senyawa_wo.sql
 
 5. buka file dengan :
 http://localhost/senyawa-wo/# 
