@@ -14,6 +14,5 @@ Website ini dibangun untuk mengelola pemesanan event seperti Akad Nikah, Resepsi
 senyawa_wo.sql
 
 5. buka file dengan :
-```bash
 http://localhost/senyawa-wo/# 
 
